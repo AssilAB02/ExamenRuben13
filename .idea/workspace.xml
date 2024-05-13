@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8c91307-6b54-41c9-b960-648fdf24b562" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="e8c91307-6b54-41c9-b960-648fdf24b562" name="Changes" comment="Interface MediaCreator.java implementada en BookCreator.java, MagazineCreator.java y NewspaperCreator.java">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Entregas/Entrega1/FactoryMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entregas/Entrega1/FactoryMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,9 +34,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FactoryMethod.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Assil/IdeaProjects/ExamenRuben13/src/main/java/org/example/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -50,12 +63,52 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715604870262</updated>
-      <workItem from="1715604871326" duration="2000" />
+      <workItem from="1715604871326" duration="1369000" />
     </task>
+    <task id="LOCAL-00001" summary="Interface Media.java">
+      <option name="closed" value="true" />
+      <created>1715605698374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715605698374</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Interface Media.java implementada en Book.java, Magazine.java y Newspaper.java">
+      <option name="closed" value="true" />
+      <created>1715605983398</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715605983398</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Interface MediaCreator.java">
+      <option name="closed" value="true" />
+      <created>1715606081458</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715606081458</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Interface MediaCreator.java implementada en BookCreator.java, MagazineCreator.java y NewspaperCreator.java">
+      <option name="closed" value="true" />
+      <created>1715606194134</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715606194134</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Interface Media.java" />
+    <MESSAGE value="Interface Media.java implementada en Book.java, Magazine.java y Newspaper.java" />
+    <MESSAGE value="Interface MediaCreator.java" />
+    <MESSAGE value="Interface MediaCreator.java implementada en BookCreator.java, MagazineCreator.java y NewspaperCreator.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface MediaCreator.java implementada en BookCreator.java, MagazineCreator.java y NewspaperCreator.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
