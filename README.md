@@ -38,3 +38,13 @@ El patrón Composite se utiliza para tratar tanto objetos individuales como comp
 
 3. **Composite (Clase MediaGroup):** Representa la estructura compuesta, que puede contener tanto hojas como otros composites. Implementa operaciones que se aplican tanto a las hojas como a los composites, lo que permite recorrer la estructura de forma recursiva.
 
+#### Funcionamiento del Adapter
+
+El patrón Adapter se utiliza para integrar diferentes interfaces o clases que tienen interfaces incompatibles. En el contexto de la biblioteca digital, podríamos usarlo para permitir que diferentes formatos de archivos se muestren de manera uniforme en la interfaz de usuario.
+
+1. **Interfaz Media:** Define el comportamiento común para todos los medios digitales, como displayInfo().
+
+2. **Clases concretas (como Book y Magazine):** Implementan la interfaz Media y representan medios digitales en diferentes formatos.
+
+3. **Clase Adapter (MediaAdapter):** Permite que una clase existente (por ejemplo, un archivo) se utilice como un medio digital al adaptar su interfaz a la interfaz Media.
+
