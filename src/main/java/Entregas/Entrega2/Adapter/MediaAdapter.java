@@ -1,4 +1,14 @@
 package Entregas.Entrega2.Adapter;
 
-public class MediaAdapter {
+class MediaAdapter implements Media {
+    private File file;
+
+    public MediaAdapter(File file) {
+        this.file = file;
+    }
+
+    @Override
+    public void displayInfo() {
+        file.read();
+    }
 }
