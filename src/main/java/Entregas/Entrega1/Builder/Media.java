@@ -1,4 +1,4 @@
-package Entregas.Entrega2;
+package Entregas.Entrega1.Builder;
 
 class Media {
     private String title;

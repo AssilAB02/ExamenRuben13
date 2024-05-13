@@ -1,4 +1,4 @@
-package Entregas.Entrega2;
+package Entregas.Entrega1.Builder;
 
 interface MediaBuilder {
     MediaBuilder setTitle(String title);

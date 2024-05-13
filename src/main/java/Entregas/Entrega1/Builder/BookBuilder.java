@@ -1,4 +1,4 @@
-package Entregas.Entrega2;
+package Entregas.Entrega1.Builder;
 
 class BookBuilder implements MediaBuilder {
     private Media book = new Media();

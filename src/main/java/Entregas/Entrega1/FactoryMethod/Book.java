@@ -1,4 +1,6 @@
-package Entregas.Entrega1;
+package Entregas.Entrega1.FactoryMethod;
+
+import Entregas.Entrega1.Media;
 
 class Book implements Media {
     @Override

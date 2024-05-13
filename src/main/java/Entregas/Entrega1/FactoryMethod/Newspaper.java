@@ -1,4 +1,4 @@
-package Entregas.Entrega1;
+package Entregas.Entrega1.FactoryMethod;
 
 class Newspaper implements Media {
     @Override
