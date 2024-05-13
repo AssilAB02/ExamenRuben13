@@ -1,4 +1,8 @@
 package Entregas.Entrega1;
 
-public class Magazine {
+class Magazine implements Media {
+    @Override
+    public void displayInfo() {
+        System.out.println("This is a magazine");
+    }
 }
