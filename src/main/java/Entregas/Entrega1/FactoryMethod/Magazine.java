@@ -1,6 +1,5 @@
 package Entregas.Entrega1.FactoryMethod;
 
-import Entregas.Entrega1.Media;
 
 class Magazine implements Media {
     @Override

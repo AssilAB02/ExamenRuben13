@@ -1,4 +1,11 @@
 package Entregas.Entrega1.Builder;
 
-public class MediaDirector {
+class MediaDirector {
+    public Media createMedia(MediaBuilder builder, String title, String author, int year) {
+        return builder
+                .setTitle(title)
+                .setAuthor(author)
+                .setYear(year)
+                .build();
+    }
 }
