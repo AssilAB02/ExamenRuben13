@@ -1,6 +1,6 @@
 # Examen Ruben 13/5/2024
 
-# Link Repositorio:
+# Link Repositorio: https://github.com/AssilAB02/ExamenRuben13.git
 
 ## Entregas 1 y 2: Patrones de Construcción y Estructuración
 
