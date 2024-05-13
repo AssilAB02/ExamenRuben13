@@ -1,4 +1,8 @@
 package Entregas.Entrega2;
 
-public interface MediaBuilder {
+interface MediaBuilder {
+    MediaBuilder setTitle(String title);
+    MediaBuilder setAuthor(String author);
+    MediaBuilder setYear(int year);
+    Media build();
 }
