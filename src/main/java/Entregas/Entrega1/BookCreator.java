@@ -1,4 +1,8 @@
 package Entregas.Entrega1;
 
-public class BookCreator {
+class BookCreator implements MediaCreator {
+    @Override
+    public Media createMedia() {
+        return new Book();
+    }
 }
