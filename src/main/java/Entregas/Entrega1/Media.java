@@ -1,4 +1,5 @@
 package Entregas.Entrega1;
 
-public interface Media {
+interface Media {
+    void displayInfo();
 }
